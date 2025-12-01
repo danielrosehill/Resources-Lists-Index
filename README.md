@@ -88,6 +88,14 @@ An index of prompting libraries for GPTs, including ChatGPT. Some of these are o
 
 ---
 
+## Awesome-Torah-Tech
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-Torah-Tech)
+
+Torah and Jewish learning technology resources
+
+---
+
 ## Awesome-Obsidian-AI-Tools
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-Obsidian-AI-Tools)
@@ -136,6 +144,38 @@ A collection of links to a few AI "deep research" projects and agents, April 202
 
 ---
 
+## Favorite-MCPs
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Favorite-MCPs)
+
+Curated list of favorite MCP (Model Context Protocol) servers
+
+---
+
+## Israel-Related-MCPs
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Israel-Related-MCPs)
+
+MCP servers relevant to Israel and Israeli users
+
+---
+
+## Jerusalem-Tech-Ecosystem
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Jerusalem-Tech-Ecosystem)
+
+Resources about the Jerusalem tech ecosystem (WIP)
+
+---
+
+## Jewish-AI-Projects
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Jewish-AI-Projects)
+
+AI projects and resources for Jewish applications
+
+---
+
 ## Jewish-Interest-MCP-Projects
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Jewish-Interest-MCP-Projects)
@@ -152,11 +192,35 @@ Quick list of  some LLM related apps with Linux desktop support (chat UIs, CLIs,
 
 ---
 
+## Linux-Friendly-Voice-Tech
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Linux-Friendly-Voice-Tech)
+
+Voice technology tools and resources that work on Linux
+
+---
+
 ## Linux-MCP-Clients
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Linux-MCP-Clients)
 
 A very small list of MCP clients that are available to Linux users, GUIs + CLIs
+
+---
+
+## Non-Code-Claude-Code
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Non-Code-Claude-Code)
+
+Non-coding use cases and workflows for Claude Code
+
+---
+
+## MCP-Ecosystem
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/MCP-Ecosystem)
+
+Resources and tools for the MCP (Model Context Protocol) ecosystem
 
 ---
 
