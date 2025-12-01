@@ -16,7 +16,7 @@ This is a curated index of "awesome list" repositories - collections of resource
 
 ---
 
-## A-Few-ADKs
+## A Few ADKs
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/A-Few-ADKs)
 
@@ -24,7 +24,7 @@ Point in time collection of some agent development kits (ADKs) to explore
 
 ---
 
-## AI-Second-Brain-Tools
+## AI Second Brain Tools
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Second-Brain-Tools)
 
@@ -32,7 +32,7 @@ AI platforms that market themselves as "second brains" (RAG + LLM). Usually: kno
 
 ---
 
-## Awesome-AI-Coding-Tools
+## Awesome AI Coding Tools
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-AI-Coding-Tools)
 
@@ -40,7 +40,7 @@ September 1st 2025 Snapshot
 
 ---
 
-## Awesome-AI-Subreddits
+## Awesome AI Subreddits
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-AI-Subreddits)
 
@@ -48,7 +48,7 @@ Subreddits discussing AI related things!
 
 ---
 
-## Awesome-Israeli-Jewish-Home-Assistant
+## Awesome Israeli And Jewish Home Assistant Projects
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-Israeli-Jewish-Home-Assistant)
 
@@ -56,7 +56,7 @@ Home automation projects that are relevant to people in Israel or Jews generally
 
 ---
 
-## Awesome-Kubernetes-Linux-Desktop
+## Awesome Kubernetes (Linux Desktop)
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-Kubernetes-Linux-Desktop)
 
@@ -64,7 +64,7 @@ GUIs and other tools that make managing Kubernetes clusters easier for Linux des
 
 ---
 
-## Awesome-Linux-IDEs
+## Awesome Linux IDEs
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-Linux-IDEs)
 
@@ -72,7 +72,7 @@ IDEs and development tools that work on one or multiple Linux distros. where pos
 
 ---
 
-## Awesome-LLM-Communities
+## Awesome LLM Communities 
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-LLM-Communities)
 
@@ -80,7 +80,7 @@ Great online communities discussing use of LLMs including (but not limited to) C
 
 ---
 
-## Awesome-LLM-Prompt-Libraries
+## Awesome LLM Prompt Libraries
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-LLM-Prompt-Libraries)
 
@@ -88,7 +88,7 @@ An index of prompting libraries for GPTs, including ChatGPT. Some of these are o
 
 ---
 
-## Awesome-Torah-Tech
+## Awesome Torah Tech
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-Torah-Tech)
 
@@ -96,7 +96,7 @@ Torah and Jewish learning technology resources
 
 ---
 
-## Awesome-Obsidian-AI-Tools
+## Awesome Obsidian AI Tools
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-Obsidian-AI-Tools)
 
@@ -104,7 +104,7 @@ Obsidian plugins focused on leveraging AI & LLMs inside of (and beyond) vaults
 
 ---
 
-## Awesome-Self-Hosted-AI-Tools
+## Awesome Self-Hosted AI Tools
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-Self-Hosted-AI-Tools)
 
@@ -112,7 +112,7 @@ Great AI tools that can be self-hosted
 
 ---
 
-## Awesome-STT-Tools
+## Awesome STT (Speech To Text) Tools
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-STT-Tools)
 
@@ -120,7 +120,7 @@ A few useful speech to text tools that I've stumbled across including browser ex
 
 ---
 
-## Awesome-Whisper-Apps
+## Awesome Whisper Apps
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-Whisper-Apps)
 
@@ -128,7 +128,7 @@ Useful speech to text tools that use Whisper under the hood (API/local)
 
 ---
 
-## Cool-Claude-Code-Stuff
+## Cool Claude Code
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Cool-Claude-Code-Stuff)
 
@@ -136,7 +136,7 @@ Claude Code repos and other resources
 
 ---
 
-## Deep-Research-Projects-0425
+## Deep Research Projects
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Deep-Research-Projects-0425)
 
@@ -144,7 +144,7 @@ A collection of links to a few AI "deep research" projects and agents, April 202
 
 ---
 
-## Favorite-MCPs
+## Favorite MCPs
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Favorite-MCPs)
 
@@ -152,7 +152,7 @@ Curated list of favorite MCP (Model Context Protocol) servers
 
 ---
 
-## Israel-Related-MCPs
+## Israel-Related MCPs
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Israel-Related-MCPs)
 
@@ -160,7 +160,7 @@ MCP servers relevant to Israel and Israeli users
 
 ---
 
-## Jerusalem-Tech-Ecosystem
+## Jerusalem Tech Ecosystem
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Jerusalem-Tech-Ecosystem)
 
@@ -168,7 +168,7 @@ Resources about the Jerusalem tech ecosystem (WIP)
 
 ---
 
-## Jewish-AI-Projects
+## Jewish AI Projects
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Jewish-AI-Projects)
 
@@ -176,7 +176,7 @@ AI projects and resources for Jewish applications
 
 ---
 
-## Jewish-Interest-MCP-Projects
+## Jewish-Interest MCP Projects
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Jewish-Interest-MCP-Projects)
 
@@ -184,7 +184,7 @@ Some MCP (model context protocol) servers which might be of interest to Jewish u
 
 ---
 
-## Linux-Desktop-LLM-Apps
+## Linux Desktop LLM Apps
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Linux-Desktop-LLM-Apps)
 
@@ -192,7 +192,7 @@ Quick list of  some LLM related apps with Linux desktop support (chat UIs, CLIs,
 
 ---
 
-## Linux-Friendly-Voice-Tech
+## Linux-Friendly Voice Tech
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Linux-Friendly-Voice-Tech)
 
@@ -200,7 +200,7 @@ Voice technology tools and resources that work on Linux
 
 ---
 
-## Linux-MCP-Clients
+## Linux MCP Clients
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Linux-MCP-Clients)
 
@@ -208,7 +208,7 @@ A very small list of MCP clients that are available to Linux users, GUIs + CLIs
 
 ---
 
-## Non-Code-Claude-Code
+## Non-Code Claude Code
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Non-Code-Claude-Code)
 
@@ -216,7 +216,7 @@ Non-coding use cases and workflows for Claude Code
 
 ---
 
-## MCP-Ecosystem
+## MCP Ecosystem
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/MCP-Ecosystem)
 
@@ -224,7 +224,7 @@ Resources and tools for the MCP (Model Context Protocol) ecosystem
 
 ---
 
-## Nice-Hebrew-Fonts
+## Nice Hebrew Fonts
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Nice-Hebrew-Fonts)
 
@@ -232,7 +232,7 @@ A collection of Hebrew fonts from around the internet
 
 ---
 
-## Prompt-Engineering-Resources
+## Prompt Engineering Resources
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Prompt-Engineering-Resources)
 
