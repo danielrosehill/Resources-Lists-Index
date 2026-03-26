@@ -240,4 +240,36 @@ Lists of resources and tools for prompt engineering and evaluation
 
 ---
 
+## Audio Multimodal AI Resources
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Audio-Multimodal-AI-Resources)
+
+A compilation of resources (model profiles, benchmarks, docs) for multimodal AI models with audio understanding (esp. focused on ASR and transcription use-cases)
+
+---
+
+## Awesome Red Alerts
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-Red-Alerts)
+
+A curated list of red alert (צבע אדום) civilian notification projects for Israel
+
+---
+
+## Hebrew TTS Providers
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Hebrew-TTS-Providers)
+
+Point in time snapshot of TTS providers with Modern Hebrew support
+
+---
+
+## Whisper Fine-Tuning Resources
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Whisiper-Fine-Tuning-Resources)
+
+Some resources for those looking to fine-tune Whisper ASR
+
+---
+
 **Note:** This is a focused index covering curated "awesome list" repositories. For a higher-level collection of all repository indexes and other projects, see the [GitHub Master Index](https://github.com/danielrosehill/Github-Master-Index).
