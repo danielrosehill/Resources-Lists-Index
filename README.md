@@ -48,11 +48,35 @@ Subreddits discussing AI related things!
 
 ---
 
+## awesome-agents-md
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/awesome-agents-md)
+
+Curated list of real-world AGENTS.md files, templates, guides & tools for OpenAI Codex-based agents.
+
+---
+
 ## Awesome Israeli And Jewish Home Assistant Projects
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-Israeli-Jewish-Home-Assistant)
 
 Home automation projects that are relevant to people in Israel or Jews generally (e.g. Shabbat and zmanim time integrations)
+
+---
+
+## awesome-opensource-israel
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/awesome-opensource-israel)
+
+A curated list of Israeli-made projects, events, and individuals.
+
+---
+
+## Awesome-Red-Alerts
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-Red-Alerts)
+
+A curated list of red alert civilian notification projects for Israel.
 
 ---
 
