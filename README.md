@@ -72,14 +72,6 @@ A curated list of Israeli-made projects, events, and individuals.
 
 ---
 
-## Awesome-Red-Alerts
-
-[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-Red-Alerts)
-
-A curated list of red alert civilian notification projects for Israel.
-
----
-
 ## Awesome Kubernetes (Linux Desktop)
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-Kubernetes-Linux-Desktop)
