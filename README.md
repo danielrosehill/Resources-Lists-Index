@@ -22,6 +22,14 @@ Point in time collection of some agent development kits (ADKs) to explore
 
 ---
 
+### AI Harnesses
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Harnesses)
+
+Point-in-time snapshot of projects describing themselves as AI agent harnesses (April 2026)
+
+---
+
 ### AI Second Brain Tools
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Second-Brain-Tools)
