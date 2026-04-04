@@ -10,6 +10,34 @@ This is a curated index of resource list repositories - collections of resources
 
 ---
 
+## AI & Geopolitics / Policy
+
+---
+
+### AI Decision Making Support & Evaluation Projects
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Decision-Eval-Projects) [![Last Updated](https://img.shields.io/github/last-commit/danielrosehill/AI-Decision-Eval-Projects?label=last%20updated&style=flat)](https://github.com/danielrosehill/AI-Decision-Eval-Projects)
+
+Projects exploring the use of AI for decision making support, decision quality evaluation, and structured analytical frameworks
+
+---
+
+### AI Geopolitical Wargaming & Policy Simulation Projects
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Geopol-Projects) [![Last Updated](https://img.shields.io/github/last-commit/danielrosehill/AI-Geopol-Projects?label=last%20updated&style=flat)](https://github.com/danielrosehill/AI-Geopol-Projects)
+
+Curated list of projects using AI, LLMs, and multi-agent systems for geopolitical wargaming, policy simulation, conflict modeling, and strategic forecasting
+
+---
+
+### AI Synthesised Perspectives
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Synthesised-Perspectives) [![Last Updated](https://img.shields.io/github/last-commit/danielrosehill/AI-Synthesised-Perspectives?label=last%20updated&style=flat)](https://github.com/danielrosehill/AI-Synthesised-Perspectives)
+
+Projects involving multi-agent simulations for exploring diverse perspectives on policy topics, including simulated fora, conferences, and deliberative processes
+
+---
+
 ## AI & LLM Tools
 
 ---
