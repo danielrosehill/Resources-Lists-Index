@@ -38,6 +38,14 @@ Point-in-time snapshot of projects describing themselves as AI agent harnesses (
 
 ---
 
+### Vendor Agent CLIs
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Vendor-Agent-CLIs) [![Last Updated](https://img.shields.io/github/last-commit/danielrosehill/Vendor-Agent-CLIs?label=last%20updated&style=flat)](https://github.com/danielrosehill/Vendor-Agent-CLIs)
+
+List (may update periodically) of vendor CLIs with agentic/tool-calling capabilities
+
+---
+
 ### AI Second Brain Tools
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Second-Brain-Tools) [![Last Updated](https://img.shields.io/github/last-commit/danielrosehill/AI-Second-Brain-Tools?label=last%20updated&style=flat)](https://github.com/danielrosehill/AI-Second-Brain-Tools)
