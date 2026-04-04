@@ -152,6 +152,14 @@ Claude Code repos and other resources
 
 ---
 
+## Cloud STT Price Points
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Cloud-STT-Price-Points-1225)
+
+Point in time pricing snapshots for ASR (07-12-2025)
+
+---
+
 ## Deep Research Projects
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Deep-Research-Projects-0425)
@@ -168,11 +176,27 @@ Curated list of LLM evaluation frameworks, benchmarks, and tools
 
 ---
 
+## Epic Fury Projects
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Epic-Fury-Projects)
+
+Links to projects about Operation Epic Fury / Israel-US-Iran War 2026
+
+---
+
 ## Favorite MCPs
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Favorite-MCPs)
 
 Curated list of favorite MCP (Model Context Protocol) servers
+
+---
+
+## Hebrew AI Models
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Hebrew-AI-Models)
+
+A catalog of AI models for the Hebrew language — LLMs, STT, TTS, NLP, embeddings, translation, and more
 
 ---
 
@@ -264,6 +288,22 @@ Lists of resources and tools for prompt engineering and evaluation
 
 ---
 
+## Retailer Recommendations
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Retailer-Recommendations)
+
+Small collection of various recs for places, mostly shops in Israel
+
+---
+
+## SITREP Examples
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/SITREP-Examples)
+
+Examples of situational reports (SITREPs) to guide agentic generation or general authorship
+
+---
+
 ## Audio Multimodal AI Resources
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Audio-Multimodal-AI-Resources)
@@ -293,6 +333,14 @@ Point in time snapshot of TTS providers with Modern Hebrew support
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Whisiper-Fine-Tuning-Resources)
 
 Some resources for those looking to fine-tune Whisper ASR
+
+---
+
+## Voice Tech Subreddits
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Voice-Tech-Subreddits)
+
+Small collection of subreddits where ASR, STT, voice tech is discussed
 
 ---
 
