@@ -14,6 +14,14 @@ This is a curated index of resource list repositories - collections of resources
 
 ---
 
+### AI Browser Tools
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Browser-Tools)
+
+A curated index of AI browser tools — automation frameworks, AI-native browsers, MCP servers, extensions, and commercial products
+
+---
+
 ### A Few ADKs
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/A-Few-ADKs)
