@@ -298,6 +298,14 @@ Home automation projects that are relevant to people in Israel or Jews generally
 
 ---
 
+### Hebrew Calendar Resources
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/hebrew-calendar-resources) [![Last Updated](https://img.shields.io/github/last-commit/danielrosehill/hebrew-calendar-resources?label=last%20updated&style=flat)](https://github.com/danielrosehill/hebrew-calendar-resources)
+
+Curated list of open-source tools, libraries, APIs, and integrations for working with the Hebrew calendar
+
+---
+
 ### Awesome Torah Tech
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-Torah-Tech) [![Last Updated](https://img.shields.io/github/last-commit/danielrosehill/Awesome-Torah-Tech?label=last%20updated&style=flat)](https://github.com/danielrosehill/Awesome-Torah-Tech)
