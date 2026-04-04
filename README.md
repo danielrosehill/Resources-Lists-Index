@@ -194,14 +194,6 @@ MCP servers relevant to Israel and Israeli users
 
 ---
 
-### Jewish-Interest MCP Projects
-
-[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Jewish-Interest-MCP-Projects) [![Last Updated](https://img.shields.io/github/last-commit/danielrosehill/Jewish-Interest-MCP-Projects?label=last%20updated&style=flat)](https://github.com/danielrosehill/Jewish-Interest-MCP-Projects)
-
-Some MCP (model context protocol) servers which might be of interest to Jewish users
-
----
-
 ### Linux MCP Clients
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Linux-MCP-Clients) [![Last Updated](https://img.shields.io/github/last-commit/danielrosehill/Linux-MCP-Clients?label=last%20updated&style=flat)](https://github.com/danielrosehill/Linux-MCP-Clients)
@@ -306,19 +298,11 @@ Curated list of open-source tools, libraries, APIs, and integrations for working
 
 ---
 
-### Awesome Torah Tech
-
-[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-Torah-Tech) [![Last Updated](https://img.shields.io/github/last-commit/danielrosehill/Awesome-Torah-Tech?label=last%20updated&style=flat)](https://github.com/danielrosehill/Awesome-Torah-Tech)
-
-Torah and Jewish learning technology resources
-
----
-
-### Jewish AI Projects
+### Jewish & Torah Tech Projects
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Jewish-AI-Projects) [![Last Updated](https://img.shields.io/github/last-commit/danielrosehill/Jewish-AI-Projects?label=last%20updated&style=flat)](https://github.com/danielrosehill/Jewish-AI-Projects)
 
-AI projects and resources for Jewish applications
+Curated collection of technological projects for Jewish religious life — AI tools, Hebrew calendar, text study, MCP servers, home automation, and more
 
 ---
 
