@@ -102,6 +102,14 @@ Quick list of some LLM related apps with Linux desktop support (chat UIs, CLIs, 
 
 ---
 
+### Personal AI Resources
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Personal-AI-Resources) [![Last Updated](https://img.shields.io/github/last-commit/danielrosehill/Personal-AI-Resources?label=last%20updated&style=flat)](https://github.com/danielrosehill/Personal-AI-Resources)
+
+Curated collection of projects advancing personalised AI — memory, context engineering, personal assistants, second brain tools, and more
+
+---
+
 ### Vendor Agent CLIs
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Vendor-Agent-CLIs) [![Last Updated](https://img.shields.io/github/last-commit/danielrosehill/Vendor-Agent-CLIs?label=last%20updated&style=flat)](https://github.com/danielrosehill/Vendor-Agent-CLIs)
