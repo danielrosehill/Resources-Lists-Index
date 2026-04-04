@@ -14,19 +14,19 @@ This is a curated index of resource list repositories - collections of resources
 
 ---
 
-### AI Browser Tools
-
-[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Browser-Tools) [![Last Updated](https://img.shields.io/github/last-commit/danielrosehill/AI-Browser-Tools?label=last%20updated&style=flat)](https://github.com/danielrosehill/AI-Browser-Tools)
-
-A curated index of AI browser tools — automation frameworks, AI-native browsers, MCP servers, extensions, and commercial products
-
----
-
 ### A Few ADKs
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/A-Few-ADKs) [![Last Updated](https://img.shields.io/github/last-commit/danielrosehill/A-Few-ADKs?label=last%20updated&style=flat)](https://github.com/danielrosehill/A-Few-ADKs)
 
 Point in time collection of some agent development kits (ADKs) to explore
+
+---
+
+### AI Browser Tools
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Browser-Tools) [![Last Updated](https://img.shields.io/github/last-commit/danielrosehill/AI-Browser-Tools?label=last%20updated&style=flat)](https://github.com/danielrosehill/AI-Browser-Tools)
+
+A curated index of AI browser tools — automation frameworks, AI-native browsers, MCP servers, extensions, and commercial products
 
 ---
 
@@ -38,19 +38,19 @@ Point-in-time snapshot of projects describing themselves as AI agent harnesses (
 
 ---
 
-### Vendor Agent CLIs
-
-[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Vendor-Agent-CLIs) [![Last Updated](https://img.shields.io/github/last-commit/danielrosehill/Vendor-Agent-CLIs?label=last%20updated&style=flat)](https://github.com/danielrosehill/Vendor-Agent-CLIs)
-
-List (may update periodically) of vendor CLIs with agentic/tool-calling capabilities
-
----
-
 ### AI Second Brain Tools
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Second-Brain-Tools) [![Last Updated](https://img.shields.io/github/last-commit/danielrosehill/AI-Second-Brain-Tools?label=last%20updated&style=flat)](https://github.com/danielrosehill/AI-Second-Brain-Tools)
 
 AI platforms that market themselves as "second brains" (RAG + LLM). Usually: knowledge discovery, mgmt, wiki + LLM capabilities.
+
+---
+
+### awesome-agents-md
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/awesome-agents-md) [![Last Updated](https://img.shields.io/github/last-commit/danielrosehill/awesome-agents-md?label=last%20updated&style=flat)](https://github.com/danielrosehill/awesome-agents-md)
+
+Curated list of real-world AGENTS.md files, templates, guides & tools for OpenAI Codex-based agents.
 
 ---
 
@@ -67,14 +67,6 @@ An ecosystem map of the AI agent and assistant building landscape in Feb 2025
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-AI-Coding-Tools) [![Last Updated](https://img.shields.io/github/last-commit/danielrosehill/Awesome-AI-Coding-Tools?label=last%20updated&style=flat)](https://github.com/danielrosehill/Awesome-AI-Coding-Tools)
 
 September 1st 2025 Snapshot
-
----
-
-### awesome-agents-md
-
-[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/awesome-agents-md) [![Last Updated](https://img.shields.io/github/last-commit/danielrosehill/awesome-agents-md?label=last%20updated&style=flat)](https://github.com/danielrosehill/awesome-agents-md)
-
-Curated list of real-world AGENTS.md files, templates, guides & tools for OpenAI Codex-based agents.
 
 ---
 
@@ -107,6 +99,14 @@ A collection of links to a few AI "deep research" projects and agents, April 202
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Linux-Desktop-LLM-Apps) [![Last Updated](https://img.shields.io/github/last-commit/danielrosehill/Linux-Desktop-LLM-Apps?label=last%20updated&style=flat)](https://github.com/danielrosehill/Linux-Desktop-LLM-Apps)
 
 Quick list of some LLM related apps with Linux desktop support (chat UIs, CLIs, wrappers, etc)
+
+---
+
+### Vendor Agent CLIs
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Vendor-Agent-CLIs) [![Last Updated](https://img.shields.io/github/last-commit/danielrosehill/Vendor-Agent-CLIs?label=last%20updated&style=flat)](https://github.com/danielrosehill/Vendor-Agent-CLIs)
+
+List (may update periodically) of vendor CLIs with agentic/tool-calling capabilities
 
 ---
 
