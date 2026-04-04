@@ -1,8 +1,8 @@
-# Awesome List Repositories Index
+# Resources Lists Index
 
 [![Master Index](https://img.shields.io/badge/Master%20Index-Repository-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Github-Master-Index)
 [![Indexing Repo](https://img.shields.io/badge/Type-Indexing%20Repository-orange?style=for-the-badge)](https://github.com/danielrosehill/Github-Master-Index)
-[![Index](https://img.shields.io/badge/Type-Index-teal?style=for-the-badge)](https://github.com/danielrosehill/Awesome-List-Repos-Index)
+[![Index](https://img.shields.io/badge/Type-Index-teal?style=for-the-badge)](https://github.com/danielrosehill/Resources-Lists-Index)
 
 ## Repository Index
 
@@ -10,7 +10,7 @@ This repository serves as an index of related repositories organized around a co
 
 ### About this index
 
-This is a curated index of "awesome list" repositories - collections of resources, tools, and projects focused on various technology topics. These repositories are periodically updated and cover areas including AI/ML tools, Linux desktop applications, development environments, and specialized resource collections.
+This is a curated index of resource list repositories - collections of resources, tools, and projects focused on various technology topics. These repositories are periodically updated and cover areas including AI/ML tools, Linux desktop applications, development environments, and specialized resource collections.
 
 ### Repositories in this collection
 
@@ -160,6 +160,14 @@ A collection of links to a few AI "deep research" projects and agents, April 202
 
 ---
 
+## Eval Resources
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Eval-Resources)
+
+Curated list of LLM evaluation frameworks, benchmarks, and tools
+
+---
+
 ## Favorite MCPs
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Favorite-MCPs)
@@ -288,4 +296,4 @@ Some resources for those looking to fine-tune Whisper ASR
 
 ---
 
-**Note:** This is a focused index covering curated "awesome list" repositories. For a higher-level collection of all repository indexes and other projects, see the [GitHub Master Index](https://github.com/danielrosehill/Github-Master-Index).
+**Note:** This is a focused index covering curated resource list repositories. For a higher-level collection of all repository indexes and other projects, see the [GitHub Master Index](https://github.com/danielrosehill/Github-Master-Index).
