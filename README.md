@@ -254,7 +254,7 @@ Some resources for those looking to fine-tune Whisper ASR
 
 ---
 
-## Hebrew & Jewish Tech
+## Judaism & Religious Tech
 
 ---
 
@@ -274,27 +274,11 @@ Torah and Jewish learning technology resources
 
 ---
 
-### Hebrew AI Models
-
-[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Hebrew-AI-Models)
-
-A catalog of AI models for the Hebrew language — LLMs, STT, TTS, NLP, embeddings, translation, and more
-
----
-
 ### Jewish AI Projects
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Jewish-AI-Projects)
 
 AI projects and resources for Jewish applications
-
----
-
-### Nice Hebrew Fonts
-
-[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Nice-Hebrew-Fonts)
-
-A collection of Hebrew fonts from around the internet
 
 ---
 
@@ -318,6 +302,14 @@ A curated list of red alert (צבע אדום) civilian notification projects for
 
 ---
 
+### Hebrew AI Models
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Hebrew-AI-Models)
+
+A catalog of AI models for the Hebrew language — LLMs, STT, TTS, NLP, embeddings, translation, and more
+
+---
+
 ### Epic Fury Projects
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Epic-Fury-Projects)
@@ -331,6 +323,14 @@ Links to projects about Operation Epic Fury / Israel-US-Iran War 2026
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Israel-News-RSS-Feeds)
 
 Collection of RSS feeds about news in Israel
+
+---
+
+### Nice Hebrew Fonts
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/danielrosehill/Nice-Hebrew-Fonts)
+
+A collection of Hebrew fonts from around the internet
 
 ---
 
