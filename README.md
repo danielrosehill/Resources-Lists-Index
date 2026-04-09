@@ -104,6 +104,14 @@ Awesome list of Whisper apps.
 
 ---
 
+### Claude-Israel
+
+Index of people and projects building with Claude (incl. Claude Code) in Israel.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Israel)
+
+---
+
 ### Deep-Research-Projects-0425
 
 Aggregated deep research projects (April 2025).
