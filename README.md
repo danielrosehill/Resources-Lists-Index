@@ -184,6 +184,14 @@ Aggregated Linux voice tech resources.
 
 ---
 
+### LLM-Council-Projects
+
+Curated index of projects in the LLM Council ecosystem — multi-model deliberation systems.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/LLM-Council-Projects)
+
+---
+
 ### Local-AI-Agent-Resources
 
 Aggregated local AI agent resources.
