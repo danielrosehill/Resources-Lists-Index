@@ -32,6 +32,14 @@ Aggregated list of AI harnesses.
 
 ---
 
+### AI-Memory-Layers
+
+Curated collection of AI memory layer projects — persistent, contextual, and structured memory for AI agents and LLMs.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Memory-Layers)
+
+---
+
 ### AI-Synthesised-Perspectives
 
 Aggregated AI-synthesised perspectives.
