@@ -8,7 +8,7 @@ Meta-index of curated, aggregated resource list repositories — collections of 
 
 ---
 
-### AI-Browser-Tools
+### AI Browser Tools
 
 Aggregated list of AI browser tools.
 
@@ -16,7 +16,7 @@ Aggregated list of AI browser tools.
 
 ---
 
-### AI-Geopol-Projects
+### AI Geopol Projects
 
 Aggregated AI geopolitics projects.
 
@@ -24,7 +24,7 @@ Aggregated AI geopolitics projects.
 
 ---
 
-### AI-Harnesses
+### AI Harnesses
 
 Aggregated list of AI harnesses.
 
@@ -32,7 +32,7 @@ Aggregated list of AI harnesses.
 
 ---
 
-### AI-Memory-Layers
+### AI Memory Layers
 
 Curated collection of AI memory layer projects — persistent, contextual, and structured memory for AI agents and LLMs.
 
@@ -40,7 +40,7 @@ Curated collection of AI memory layer projects — persistent, contextual, and s
 
 ---
 
-### AI-Presentation-Builders-Index
+### AI Presentation Builders Index
 
 Tools, agents, and assistants for generating presentations and decks with AI. Scope: open/self-hosted/agent-driven builders. Out of scope (for now): SaaS-only utilities.
 
@@ -48,7 +48,7 @@ Tools, agents, and assistants for generating presentations and decks with AI. Sc
 
 ---
 
-### AI-Synthesised-Perspectives
+### AI Synthesised Perspectives
 
 Aggregated AI-synthesised perspectives.
 
@@ -56,7 +56,7 @@ Aggregated AI-synthesised perspectives.
 
 ---
 
-### Arch-And-Interiors-Index
+### Arch And Interiors Index
 
 Resource list for sharing with an architect — tools, repos, and experiments around architecture and interior design.
 
@@ -64,7 +64,7 @@ Resource list for sharing with an architect — tools, repos, and experiments ar
 
 ---
 
-### Audio-Multimodal-AI-Resources
+### Audio Multimodal AI Resources
 
 Aggregated audio/multimodal AI resources.
 
@@ -72,7 +72,7 @@ Aggregated audio/multimodal AI resources.
 
 ---
 
-### Awesome-Israeli-Jewish-Home-Assistant
+### Awesome Israeli Jewish Home Assistant
 
 Awesome list of Israeli/Jewish Home Assistant resources.
 
@@ -80,7 +80,7 @@ Awesome list of Israeli/Jewish Home Assistant resources.
 
 ---
 
-### Awesome-Linux-IDEs
+### Awesome Linux IDEs
 
 Awesome list of Linux IDEs.
 
@@ -88,7 +88,7 @@ Awesome list of Linux IDEs.
 
 ---
 
-### Awesome-LLM-Communities
+### Awesome LLM Communities
 
 Awesome list of LLM communities.
 
@@ -96,7 +96,7 @@ Awesome list of LLM communities.
 
 ---
 
-### Awesome-LLM-Council-Projects
+### Awesome LLM Council Projects
 
 Index of projects based on Karpathy's LLM Council model — multi-model deliberation setups.
 
@@ -104,7 +104,7 @@ Index of projects based on Karpathy's LLM Council model — multi-model delibera
 
 ---
 
-### Awesome-LLM-Prompt-Libraries
+### Awesome LLM Prompt Libraries
 
 Awesome list of LLM prompt libraries.
 
@@ -112,7 +112,7 @@ Awesome list of LLM prompt libraries.
 
 ---
 
-### Awesome-Obsidian-AI-Tools
+### Awesome Obsidian AI Tools
 
 Awesome list of Obsidian AI tools.
 
@@ -120,7 +120,7 @@ Awesome list of Obsidian AI tools.
 
 ---
 
-### Awesome-Red-Alerts
+### Awesome Red Alerts
 
 Awesome list of Red Alert resources.
 
@@ -128,7 +128,7 @@ Awesome list of Red Alert resources.
 
 ---
 
-### Awesome-Whisper-Apps
+### Awesome Whisper Apps
 
 Awesome list of Whisper apps.
 
@@ -136,7 +136,7 @@ Awesome list of Whisper apps.
 
 ---
 
-### Claude-Israel
+### Claude Israel
 
 Index of people and projects building with Claude (incl. Claude Code) in Israel.
 
@@ -144,7 +144,7 @@ Index of people and projects building with Claude (incl. Claude Code) in Israel.
 
 ---
 
-### Deep-Research-Projects-0425
+### Deep Research Projects 0425
 
 Aggregated deep research projects (April 2025).
 
@@ -152,7 +152,7 @@ Aggregated deep research projects (April 2025).
 
 ---
 
-### Eval-Resources
+### Eval Resources
 
 Aggregated evaluation resources.
 
@@ -160,7 +160,7 @@ Aggregated evaluation resources.
 
 ---
 
-### Hebrew-AI-Models
+### Hebrew AI Models
 
 Aggregated Hebrew AI models.
 
@@ -168,7 +168,7 @@ Aggregated Hebrew AI models.
 
 ---
 
-### Hebrew-Calendar-Resources
+### Hebrew Calendar Resources
 
 Aggregated Hebrew calendar resources.
 
@@ -176,7 +176,7 @@ Aggregated Hebrew calendar resources.
 
 ---
 
-### Hebrew-Language-Projects-Index
+### Hebrew Language Projects Index
 
 Projects and utilities for working with the Hebrew language: translation, TTS, LLMs, fonts, calendar, Paleo Hebrew.
 
@@ -184,7 +184,7 @@ Projects and utilities for working with the Hebrew language: translation, TTS, L
 
 ---
 
-### Hebrew-TTS-Providers
+### Hebrew TTS Providers
 
 Aggregated Hebrew TTS providers.
 
@@ -192,7 +192,7 @@ Aggregated Hebrew TTS providers.
 
 ---
 
-### Israeli-AI-Tools-And-Ecosystem
+### Israeli AI Tools And Ecosystem
 
 Small resource list of MCP and AI projects related to Israel.
 
@@ -200,7 +200,7 @@ Small resource list of MCP and AI projects related to Israel.
 
 ---
 
-### Israeli-AI-Tools-And-Utilities
+### Israeli AI Tools And Utilities
 
 Aggregated Israeli AI tools and utilities.
 
@@ -208,7 +208,7 @@ Aggregated Israeli AI tools and utilities.
 
 ---
 
-### Israeli-Open-Source-Projects
+### Israeli Open Source Projects
 
 Curated index of interesting open-source Israeli projects (data sources, civic tech, finance, careers, real estate, smart home, media). Sibling to Israeli-AI-Tools-And-Ecosystem.
 
@@ -216,7 +216,7 @@ Curated index of interesting open-source Israeli projects (data sources, civic t
 
 ---
 
-### Jewish-AI-Projects
+### Jewish AI Projects
 
 Aggregated Jewish AI projects.
 
@@ -224,7 +224,7 @@ Aggregated Jewish AI projects.
 
 ---
 
-### Linux-Voice-Tech
+### Linux Voice Tech
 
 Aggregated Linux voice tech resources.
 
@@ -232,7 +232,7 @@ Aggregated Linux voice tech resources.
 
 ---
 
-### LLM-Council-Projects
+### LLM Council Projects
 
 Curated index of projects in the LLM Council ecosystem — multi-model deliberation systems.
 
@@ -240,7 +240,7 @@ Curated index of projects in the LLM Council ecosystem — multi-model deliberat
 
 ---
 
-### Local-AI-Agent-Resources
+### Local AI Agent Resources
 
 Aggregated local AI agent resources.
 
@@ -248,7 +248,7 @@ Aggregated local AI agent resources.
 
 ---
 
-### Monitoring-The-Situation
+### Monitoring The Situation
 
 Curated index of open-source projects for situational awareness, geopolitical monitoring, and information-fusion dashboards (news grids, video walls, ops-center COPs).
 
@@ -256,7 +256,7 @@ Curated index of open-source projects for situational awareness, geopolitical mo
 
 ---
 
-### Non-Code-Claude-Code
+### Non Code Claude Code
 
 Aggregated non-code Claude Code projects.
 
@@ -264,7 +264,7 @@ Aggregated non-code Claude Code projects.
 
 ---
 
-### Personal-AI-Resources
+### Personal AI Resources
 
 Aggregated personal AI resources.
 
@@ -272,7 +272,7 @@ Aggregated personal AI resources.
 
 ---
 
-### SITREP-Examples
+### SITREP Examples
 
 Aggregated SITREP examples.
 
@@ -280,7 +280,7 @@ Aggregated SITREP examples.
 
 ---
 
-### Useful-AI-Agent-Skills
+### Useful AI Agent Skills
 
 Aggregated useful AI agent skills.
 
