@@ -21,6 +21,14 @@ Meta-index of curated, aggregated resource list repositories — collections of 
 
 ## AI Agents, Skills and Tooling
 
+### Agent Assisted Purchase Research Index
+
+Templates, agent skills, and demos for the pattern of using AI agents to drive consumer purchase research — spec-first, then product matching, then availability checks.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Agent-Assisted-Purchase-Research-Index)
+
+---
+
 ### AI Browser Tools
 
 Aggregated list of AI browser tools.
@@ -184,6 +192,14 @@ Aggregated Linux voice tech resources.
 Aggregated AI geopolitics projects.
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Geopol-Projects)
+
+---
+
+### Geopol Forecasts Index
+
+Index of prediction runs from Geopol Forecaster with accuracy tracking. Snowglobe + LLM Council pipeline.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Geopol-Forecasts-Index)
 
 ---
 
