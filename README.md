@@ -8,19 +8,24 @@ Meta-index of curated, aggregated resource list repositories — collections of 
 
 ---
 
+## Table of Contents
+
+- [AI Agents, Skills and Tooling](#ai-agents-skills-and-tooling)
+- [LLMs, Evals and Research](#llms-evals-and-research)
+- [Voice, Audio and Multimodal](#voice-audio-and-multimodal)
+- [Geopolitics and Situational Awareness](#geopolitics-and-situational-awareness)
+- [Israel, Hebrew and Jewish Tech](#israel-hebrew-and-jewish-tech)
+- [Specialist and Other](#specialist-and-other)
+
+---
+
+## AI Agents, Skills and Tooling
+
 ### AI Browser Tools
 
 Aggregated list of AI browser tools.
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Browser-Tools)
-
----
-
-### AI Geopol Projects
-
-Aggregated AI geopolitics projects.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Geopol-Projects)
 
 ---
 
@@ -48,43 +53,53 @@ Tools, agents, and assistants for generating presentations and decks with AI. Sc
 
 ---
 
+### Awesome Obsidian AI Tools
+
+Awesome list of Obsidian AI tools.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-Obsidian-AI-Tools)
+
+---
+
+### Local AI Agent Resources
+
+Aggregated local AI agent resources.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Local-AI-Agent-Resources)
+
+---
+
+### Non Code Claude Code
+
+Aggregated non-code Claude Code projects.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Non-Code-Claude-Code)
+
+---
+
+### Personal AI Resources
+
+Aggregated personal AI resources.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Personal-AI-Resources)
+
+---
+
+### Useful AI Agent Skills
+
+Aggregated useful AI agent skills.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Useful-AI-Agent-Skills)
+
+---
+
+## LLMs, Evals and Research
+
 ### AI Synthesised Perspectives
 
 Aggregated AI-synthesised perspectives.
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Synthesised-Perspectives)
-
----
-
-### Arch And Interiors Index
-
-Resource list for sharing with an architect — tools, repos, and experiments around architecture and interior design.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Arch-And-Interiors-Index)
-
----
-
-### Audio Multimodal AI Resources
-
-Aggregated audio/multimodal AI resources.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Audio-Multimodal-AI-Resources)
-
----
-
-### Awesome Israeli Jewish Home Assistant
-
-Awesome list of Israeli/Jewish Home Assistant resources.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-Israeli-Jewish-Home-Assistant)
-
----
-
-### Awesome Linux IDEs
-
-Awesome list of Linux IDEs.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-Linux-IDEs)
 
 ---
 
@@ -112,38 +127,6 @@ Awesome list of LLM prompt libraries.
 
 ---
 
-### Awesome Obsidian AI Tools
-
-Awesome list of Obsidian AI tools.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-Obsidian-AI-Tools)
-
----
-
-### Awesome Red Alerts
-
-Awesome list of Red Alert resources.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-Red-Alerts)
-
----
-
-### Awesome Whisper Apps
-
-Awesome list of Whisper apps.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-Whisper-Apps)
-
----
-
-### Claude Israel
-
-Index of people and projects building with Claude (incl. Claude Code) in Israel.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Israel)
-
----
-
 ### Deep Research Projects 0425
 
 Aggregated deep research projects (April 2025).
@@ -157,6 +140,92 @@ Aggregated deep research projects (April 2025).
 Aggregated evaluation resources.
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Eval-Resources)
+
+---
+
+### LLM Council Projects
+
+Curated index of projects in the LLM Council ecosystem — multi-model deliberation systems.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/LLM-Council-Projects)
+
+---
+
+## Voice, Audio and Multimodal
+
+### Audio Multimodal AI Resources
+
+Aggregated audio/multimodal AI resources.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Audio-Multimodal-AI-Resources)
+
+---
+
+### Awesome Whisper Apps
+
+Awesome list of Whisper apps.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-Whisper-Apps)
+
+---
+
+### Linux Voice Tech
+
+Aggregated Linux voice tech resources.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Linux-Voice-Tech)
+
+---
+
+## Geopolitics and Situational Awareness
+
+### AI Geopol Projects
+
+Aggregated AI geopolitics projects.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Geopol-Projects)
+
+---
+
+### Awesome Red Alerts
+
+Awesome list of Red Alert resources.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-Red-Alerts)
+
+---
+
+### Monitoring The Situation
+
+Curated index of open-source projects for situational awareness, geopolitical monitoring, and information-fusion dashboards (news grids, video walls, ops-center COPs).
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Monitoring-The-Situation)
+
+---
+
+### SITREP Examples
+
+Aggregated SITREP examples.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/SITREP-Examples)
+
+---
+
+## Israel, Hebrew and Jewish Tech
+
+### Awesome Israeli Jewish Home Assistant
+
+Awesome list of Israeli/Jewish Home Assistant resources.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-Israeli-Jewish-Home-Assistant)
+
+---
+
+### Claude Israel
+
+Index of people and projects building with Claude (incl. Claude Code) in Israel.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Israel)
 
 ---
 
@@ -224,67 +293,21 @@ Aggregated Jewish AI projects.
 
 ---
 
-### Linux Voice Tech
+## Specialist and Other
 
-Aggregated Linux voice tech resources.
+### Arch And Interiors Index
 
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Linux-Voice-Tech)
+Resource list for sharing with an architect — tools, repos, and experiments around architecture and interior design.
 
----
-
-### LLM Council Projects
-
-Curated index of projects in the LLM Council ecosystem — multi-model deliberation systems.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/LLM-Council-Projects)
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Arch-And-Interiors-Index)
 
 ---
 
-### Local AI Agent Resources
+### Awesome Linux IDEs
 
-Aggregated local AI agent resources.
+Awesome list of Linux IDEs.
 
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Local-AI-Agent-Resources)
-
----
-
-### Monitoring The Situation
-
-Curated index of open-source projects for situational awareness, geopolitical monitoring, and information-fusion dashboards (news grids, video walls, ops-center COPs).
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Monitoring-The-Situation)
-
----
-
-### Non Code Claude Code
-
-Aggregated non-code Claude Code projects.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Non-Code-Claude-Code)
-
----
-
-### Personal AI Resources
-
-Aggregated personal AI resources.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Personal-AI-Resources)
-
----
-
-### SITREP Examples
-
-Aggregated SITREP examples.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/SITREP-Examples)
-
----
-
-### Useful AI Agent Skills
-
-Aggregated useful AI agent skills.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Useful-AI-Agent-Skills)
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-Linux-IDEs)
 
 ---
 
