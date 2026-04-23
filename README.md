@@ -29,6 +29,14 @@ Templates, agent skills, and demos for the pattern of using AI agents to drive c
 
 ---
 
+### AI Data Utilities
+
+Open-source tools for data work — AI agents and chat-with-data interfaces, visualisation, cleaning/pipelines, dataframes, anomaly detection, geospatial, and reference datasets.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Data-Utilities)
+
+---
+
 ### AI Browser Tools
 
 Aggregated list of AI browser tools.
