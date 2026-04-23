@@ -40,11 +40,27 @@ Curated collection of AI memory layer projects — persistent, contextual, and s
 
 ---
 
+### AI-Presentation-Builders-Index
+
+Tools, agents, and assistants for generating presentations and decks with AI. Scope: open/self-hosted/agent-driven builders. Out of scope (for now): SaaS-only utilities.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Presentation-Builders-Index)
+
+---
+
 ### AI-Synthesised-Perspectives
 
 Aggregated AI-synthesised perspectives.
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Synthesised-Perspectives)
+
+---
+
+### Arch-And-Interiors-Index
+
+Resource list for sharing with an architect — tools, repos, and experiments around architecture and interior design.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Arch-And-Interiors-Index)
 
 ---
 
@@ -77,6 +93,14 @@ Awesome list of Linux IDEs.
 Awesome list of LLM communities.
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-LLM-Communities)
+
+---
+
+### Awesome-LLM-Council-Projects
+
+Index of projects based on Karpathy's LLM Council model — multi-model deliberation setups.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-LLM-Council-Projects)
 
 ---
 
@@ -168,11 +192,27 @@ Aggregated Hebrew TTS providers.
 
 ---
 
+### Israeli-AI-Tools-And-Ecosystem
+
+Small resource list of MCP and AI projects related to Israel.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Israeli-AI-Tools-And-Ecosystem)
+
+---
+
 ### Israeli-AI-Tools-And-Utilities
 
 Aggregated Israeli AI tools and utilities.
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Israeli-AI-Tools-And-Utilities)
+
+---
+
+### Israeli-Open-Source-Projects
+
+Curated index of interesting open-source Israeli projects (data sources, civic tech, finance, careers, real estate, smart home, media). Sibling to Israeli-AI-Tools-And-Ecosystem.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Israeli-Open-Source-Projects)
 
 ---
 
@@ -205,6 +245,14 @@ Curated index of projects in the LLM Council ecosystem — multi-model deliberat
 Aggregated local AI agent resources.
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Local-AI-Agent-Resources)
+
+---
+
+### Monitoring-The-Situation
+
+Curated index of open-source projects for situational awareness, geopolitical monitoring, and information-fusion dashboards (news grids, video walls, ops-center COPs).
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Monitoring-The-Situation)
 
 ---
 
