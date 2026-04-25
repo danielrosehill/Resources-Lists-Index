@@ -77,6 +77,14 @@ Awesome list of Obsidian AI tools.
 
 ---
 
+### Context Engineering Resources
+
+Curated collection of context engineering resources — tooling, agent skills, education, and awesome lists for designing and managing LLM context.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Context-Engineering-Resources)
+
+---
+
 ### Local AI Agent Resources
 
 Aggregated local AI agent resources.
@@ -140,6 +148,14 @@ Index of projects based on Karpathy's LLM Council model — multi-model delibera
 Awesome list of LLM prompt libraries.
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-LLM-Prompt-Libraries)
+
+---
+
+### Awesome AI Evaluations Tools
+
+Curated list of open-source tools, frameworks, and benchmarks for evaluating AI systems — LLMs, RAG, agents, multimodal, browser agents, safety, bias.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-AI-Evaluations-Tools)
 
 ---
 
