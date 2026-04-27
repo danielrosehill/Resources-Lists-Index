@@ -119,6 +119,14 @@ Aggregated useful AI agent skills.
 
 ## LLMs, Evals and Research
 
+### Awesome AI Evaluations Tools
+
+Curated list of open source tools, frameworks, and benchmarks for evaluating AI systems — LLMs, RAG, agents, multimodal.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-AI-Evaluations-Tools)
+
+---
+
 ### AI Synthesised Perspectives
 
 Aggregated AI-synthesised perspectives.
@@ -252,6 +260,14 @@ Aggregated SITREP examples.
 ---
 
 ## Israel, Hebrew and Jewish Tech
+
+### Awesome Hebrew Fonts
+
+Curated point-in-time list of great Hebrew fonts on Google Fonts, with a JSON-driven installer (CLI + GUI) and live HTML samples.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Awesome-Hebrew-Fonts)
+
+---
 
 ### Awesome Israeli Jewish Home Assistant
 
