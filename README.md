@@ -1,6 +1,6 @@
 # Resources Lists Index
 
-[![Master Index](https://img.shields.io/badge/Master%20Index-All%20Repositories-purple?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Index)
+[![Master Index](https://img.shields.io/badge/Master%20Index-All%20Repositories-purple?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Start-Here)
 
 Meta-index of curated, aggregated resource list repositories — collections of third-party tools, projects, and resources organized by topic.
 
