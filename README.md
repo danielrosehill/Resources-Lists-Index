@@ -4,7 +4,7 @@
 
 Meta-index of curated, aggregated resource list repositories — collections of third-party tools, projects, and resources organized by topic.
 
-**Last Updated:** April 2026
+**Last Updated:** October 2026
 
 ---
 
@@ -175,22 +175,6 @@ Aggregated deep research projects (April 2025).
 
 ---
 
-### Eval Resources
-
-Aggregated evaluation resources.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Eval-Resources)
-
----
-
-### LLM Council Projects
-
-Curated index of projects in the LLM Council ecosystem — multi-model deliberation systems.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/LLM-Council-Projects)
-
----
-
 ## Voice, Audio and Multimodal
 
 ### Audio Multimodal AI Resources
@@ -317,19 +301,11 @@ Aggregated Hebrew TTS providers.
 
 ---
 
-### Israeli AI Tools And Ecosystem
+### Israeli AI
 
 Small resource list of MCP and AI projects related to Israel.
 
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Israeli-AI-Tools-And-Ecosystem)
-
----
-
-### Israeli AI Tools And Utilities
-
-Aggregated Israeli AI tools and utilities.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Israeli-AI-Tools-And-Utilities)
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Israeli-AI)
 
 ---
 
